@@ -1,0 +1,502 @@
+1******肖盛峰******{"name": "肖盛峰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11955.htm", "籍贯": "辽宁普兰店", "职位": "辽宁省大连市市长", "学位/学历": "博士", "出生年月": "1959年07月", "性别": "男"}
+
+2******李先忠******{"name": "李先忠", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4048.htm", "籍贯": "山东龙口", "职位": "北京市东城区区长", "学位/学历": "博士", "出生年月": "1971年06月", "性别": "男"}
+
+3******王波******{"name": "王波", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5638.htm", "籍贯": "内蒙古翁牛特旗", "职位": "内蒙古自治区副主席", "学位/学历": "硕士", "出生年月": "1958年10月", "性别": "男"}
+
+4******曾赞荣******{"name": "曾赞荣", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11006.htm", "籍贯": "湖南邵东", "职位": "北京市房山区委书记", "学位/学历": "硕士", "出生年月": "1969年08月", "性别": "男"}
+
+5******张家明******{"name": "张家明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4018.htm", "籍贯": "安徽肥东", "职位": "北京市东城区委书记", "学位/学历": "硕士", "出生年月": "1963年12月", "性别": "男"}
+
+6******李纪恒******{"name": "李纪恒", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4956.htm", "籍贯": "广西贵港", "职位": "内蒙古自治区党委书记、自治区人大常委会主任", "学位/学历": "博士", "出生年月": "1957年01月", "性别": "男"}
+
+7******张硕辅******{"name": "张硕辅", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage6347.htm", "籍贯": "湖南长沙", "职位": "北京市委常委、市纪委书记", "学位/学历": "博士", "出生年月": "1965年08月", "性别": "男"}
+
+8******梁惠玲******{"name": "梁惠玲", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage6256.htm", "籍贯": "湖北宜城", "职位": "河北省委常委、省纪委书记", "学位/学历": "研究生", "出生年月": "1962年08月", "性别": "女"}
+
+9******李杰翔******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage12251.htm", "name": "李杰翔"}
+
+10******邢国辉******{"name": "邢国辉", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4093.htm", "籍贯": "河北正定", "职位": "河北省委常委、石家庄市委书记", "学位/学历": "硕士", "出生年月": "1961年03月", "性别": "男"}
+
+11******怀进鹏******{"name": "怀进鹏", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16268.htm", "籍贯": "黑龙江哈尔滨", "职位": "天津市委副书记", "学位/学历": "博士", "出生年月": "1962年12月", "性别": "男"}
+
+12******奇巴图******{"name": "奇巴图", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15572.htm", "籍贯": "内蒙古准格尔旗", "职位": "内蒙古自治区兴安盟盟长", "学位/学历": "硕士", "出生年月": "1971年09月", "性别": "男"}
+
+13******陈小江******{"name": "陈小江", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15610.htm", "籍贯": "浙江龙游", "职位": "辽宁省委常委、省纪委书记", "学位/学历": "", "出生年月": "1962年06月", "性别": "男"}
+
+14******王莉霞******{"name": "王莉霞", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage6568.htm", "籍贯": "辽宁建平", "职位": "内蒙古自治区党委常委、统战部部长", "学位/学历": "博士", "出生年月": "1964年06月", "性别": "女"}
+
+15******何焕秋******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage16008.htm", "name": "何焕秋"}
+
+16******李正印******{"name": "李正印", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16226.htm", "籍贯": "山西武乡", "职位": "山西省吕梁市委书记", "学位/学历": "研究生", "出生年月": "1962年08月", "性别": "男"}
+
+17******冀岩******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4026.htm", "name": "冀岩"}
+
+18******梅世彤******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage8158.htm", "name": "梅世彤"}
+
+19******张庆伟******{"name": "张庆伟", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4886.htm", "籍贯": "河北乐亭", "职位": "河北省委副书记、省长", "学位/学历": "博士", "出生年月": "1961年11月", "性别": "男"}
+
+20******杨慧******{"name": "杨慧", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4102.htm", "籍贯": "河北康保", "职位": "河北省沧州市委书记", "学位/学历": "博士", "出生年月": "1965年07月", "性别": "男"}
+
+21******谈绪祥******{"name": "谈绪祥", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4040.htm", "籍贯": "安徽芜湖", "职位": "北京市大兴区委书记", "学位/学历": "本科", "出生年月": "1966年05月", "性别": "男"}
+
+22******陈振亮******{"name": "陈振亮", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15626.htm", "籍贯": "山西寿阳", "职位": "山西省运城市市长", "学位/学历": "博士", "出生年月": "1963年08月", "性别": "男"}
+
+23******张恩惠******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15533.htm", "name": "张恩惠"}
+
+24******王正谱******{"name": "王正谱", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4168.htm", "籍贯": "山东烟台", "职位": "辽宁省委常委、组织部部长", "学位/学历": "学士", "出生年月": "1963年08月", "性别": "男"}
+
+25******龚明珠******{"name": "龚明珠", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16375.htm", "籍贯": "内蒙古奈曼旗", "职位": "内蒙古自治区鄂尔多斯市市长", "学位/学历": "硕士", "出生年月": "1966年10月", "性别": "男"}
+
+26******吕毅******{"name": "吕毅", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15849.htm", "籍贯": "天津", "职位": "天津市北辰区区长", "学位/学历": "博士", "出生年月": "1965年05月", "性别": "男"}
+
+27******岳普煜******{"name": "岳普煜", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4122.htm", "籍贯": "山西太原", "职位": "山西省临汾市委书记", "学位/学历": "博士", "出生年月": "1959年10月", "性别": "男"}
+
+28******郝茂荣******{"name": "郝茂荣", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16387.htm", "籍贯": "内蒙古包头", "职位": "内蒙古自治区通辽市市长", "学位/学历": "博士", "出生年月": "1963年11月", "性别": "男"}
+
+29******罗清宇******{"name": "罗清宇", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4121.htm", "籍贯": "山西原平", "职位": "山西省委常委、省委秘书长", "学位/学历": "硕士", "出生年月": "1963年10月", "性别": "男"}
+
+30******郝春荣******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage16128.htm", "name": "郝春荣"}
+
+31******张延昆******{"name": "张延昆", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5384.htm", "籍贯": "河南方城", "职位": "北京市委常委、政法委书记", "学位/学历": "硕士", "出生年月": "1963年01月", "性别": "男"}
+
+32******马明******{"name": "马明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5639.htm", "籍贯": "辽宁辽中", "职位": "内蒙古自治区副主席，自治区公安厅厅长", "学位/学历": "硕士", "出生年月": "1957年10月", "性别": "男"}
+
+33******彭三******{"name": "彭三", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4056.htm", "籍贯": "云南大理", "职位": "天津市和平区区长", "学位/学历": "博士", "出生年月": "1966年08月", "性别": "男"}
+
+34******赵海山******{"name": "赵海山", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15362.htm", "籍贯": "河北深州", "职位": "天津市副市长", "学位/学历": "博士", "出生年月": "1962年10月", "性别": "男"}
+
+35******曹小红******{"name": "曹小红", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5414.htm", "籍贯": "吉林乾安", "职位": "天津市副市长", "学位/学历": "博士", "出生年月": "1961年05月", "性别": "女"}
+
+36******李谦******{"name": "李谦", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4101.htm", "籍贯": "河北晋州", "职位": "河北省衡水市委书记", "学位/学历": "研究生", "出生年月": "1960年03月", "性别": "男"}
+
+37******王一新******{"name": "王一新", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5469.htm", "籍贯": "湖北英山", "职位": "山西省副省长", "学位/学历": "学士", "出生年月": "1965年12月", "性别": "男"}
+
+38******郭迎光******{"name": "郭迎光", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5468.htm", "籍贯": "山西陵川", "职位": "山西省副省长", "学位/学历": "硕士", "出生年月": "1958年05月", "性别": "男"}
+
+39******牛俊雁******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15465.htm", "name": "牛俊雁"}
+
+40******王伟中******{"name": "王伟中", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage6333.htm", "籍贯": "山西朔州", "职位": "山西省委常委，太原市委书记", "学位/学历": "博士", "出生年月": "1962年03月", "性别": "男"}
+
+41******王洪海******{"name": "王洪海", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12075.htm", "籍贯": "天津", "职位": "天津市蓟州区区长", "学位/学历": "硕士", "出生年月": "1964年08月", "性别": "男"}
+
+42******廉毅敏******{"name": "廉毅敏", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16223.htm", "籍贯": "山西平遥", "职位": "山西省委常委、统战部部长", "学位/学历": "博士", "出生年月": "1964年03月", "性别": "男"}
+
+43******潘临珠******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15282.htm", "name": "潘临珠"}
+
+44******艾丽华******{"name": "艾丽华", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12154.htm", "籍贯": "内蒙古翁牛特旗", "职位": "内蒙古自治区乌兰察布市委书记", "学位/学历": "学士", "出生年月": "1964年10月", "性别": "女"}
+
+45******王宁******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4019.htm", "name": "王宁"}
+
+46******王小洪******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage11011.htm", "name": "王小洪"}
+
+47******李希******{"name": "李希", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5023.htm", "籍贯": "甘肃两当", "职位": "辽宁省委书记、省人大常委会主任", "学位/学历": "硕士", "出生年月": "1956年10月", "性别": "男"}
+
+48******张院忠******{"name": "张院忠", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4146.htm", "籍贯": "陕西府谷", "职位": "内蒙古自治区党委常委，包头市委书记", "学位/学历": "学士", "出生年月": "1959年11月", "性别": "男"}
+
+49******付志方******{"name": "付志方", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4887.htm", "籍贯": "河南南阳", "职位": "河北省政协主席", "学位/学历": "硕士", "出生年月": "1956年10月", "性别": "男"}
+
+50******任建华******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage16164.htm", "name": "任建华"}
+
+51******李清******{"name": "李清", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16282.htm", "籍贯": "河北丰宁", "职位": "天津市西青区委书记", "学位/学历": "", "出生年月": "1965年03月", "性别": "女"}
+
+52******李学义******{"name": "李学义", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16381.htm", "籍贯": "天津", "职位": "天津市河西区区长", "学位/学历": "", "出生年月": "1964年05月", "性别": "男"}
+
+53******包钢******{"name": "包钢", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4130.htm", "籍贯": "辽宁阜新", "职位": "内蒙古自治区阿拉善盟委书记", "学位/学历": "硕士", "出生年月": "1969年05月", "性别": "男"}
+
+54******耿彦波******{"name": "耿彦波", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4104.htm", "籍贯": "山西和顺", "职位": "山西省太原市市长", "学位/学历": "硕士", "出生年月": "1958年11月", "性别": "男"}
+
+55******成其圣******{"name": "成其圣", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5410.htm", "籍贯": "江苏泰兴", "职位": "天津市委常委、市委秘书长", "学位/学历": "博士", "出生年月": "1963年09月", "性别": "男"}
+
+56******付兆庚******{"name": "付兆庚", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15594.htm", "籍贯": "北京", "职位": "北京市门头沟区区长", "学位/学历": "", "出生年月": "1964年08月", "性别": "男"}
+
+57******吴汉圣******{"name": "吴汉圣", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5660.htm", "籍贯": "山东临朐", "职位": "辽宁省委常委、省委秘书长、省直机关工委书记", "学位/学历": "学士", "出生年月": "1963年04月", "性别": "男"}
+
+58******黄晓薇******{"name": "黄晓薇", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage6332.htm", "籍贯": "辽宁海城", "职位": "山西省委副书记、省委政法委书记", "学位/学历": "学士", "出生年月": "1961年05月", "性别": "女"}
+
+59******臧献甫******{"name": "臧献甫", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5401.htm", "籍贯": "河南舞阳", "职位": "天津市政协主席", "学位/学历": "硕士", "出生年月": "1954年12月", "性别": "男"}
+
+60******蔺雪峰******{"name": "蔺雪峰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12106.htm", "籍贯": "河北大城", "职位": "天津市静海区区长", "学位/学历": "博士", "出生年月": "1966年02月", "性别": "男"}
+
+61******梁田庚******{"name": "梁田庚", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage6458.htm", "籍贯": "广东茂名", "职位": "河北省委常委、组织部部长", "学位/学历": "博士", "出生年月": "1960年05月", "性别": "男"}
+
+62******余功斌******{"name": "余功斌", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16025.htm", "籍贯": "", "职位": "辽宁省营口市市长", "学位/学历": "博士", "出生年月": "1967年04月", "性别": "男"}
+
+63******常丽虹******{"name": "常丽虹", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15381.htm", "籍贯": "河北清苑", "职位": "河北省承德市市长", "学位/学历": "学士", "出生年月": "1962年09月", "性别": "女"}
+
+64******陈绍旺******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15405.htm", "name": "陈绍旺"}
+
+65******张工******{"name": "张工", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5373.htm", "籍贯": "北京", "职位": "北京市委常委、市委秘书长，常务副市长", "学位/学历": "硕士", "出生年月": "1961年08月", "性别": "男"}
+
+66******杨令生******{"name": "杨令生", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15460.htm", "籍贯": "天津", "职位": "天津市武清区区长", "学位/学历": "研究生", "出生年月": "1960年02月", "性别": "男"}
+
+67******楼阳生******{"name": "楼阳生", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5458.htm", "籍贯": "浙江浦江", "职位": "山西省委副书记，省长", "学位/学历": "硕士", "出生年月": "1959年10月", "性别": "男"}
+
+68******张复明******{"name": "张复明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5470.htm", "籍贯": "山西介休", "职位": "山西省副省长", "学位/学历": "博士", "出生年月": "1963年09月", "性别": "男"}
+
+69******姜志刚******{"name": "姜志刚", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5297.htm", "籍贯": "江苏东海", "职位": "北京市委常委、组织部部长", "学位/学历": "硕士", "出生年月": "1960年08月", "性别": "男"}
+
+70******崔志成******{"name": "崔志成", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15585.htm", "籍贯": "山东招远", "职位": "北京市大兴区区长", "学位/学历": "硕士", "出生年月": "1970年04月", "性别": "男"}
+
+71******邓沛然******{"name": "邓沛然", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16371.htm", "籍贯": "河北献县", "职位": "河北省石家庄市代市长", "学位/学历": "博士", "出生年月": "1963年07月", "性别": "男"}
+
+72******方守义******{"name": "方守义", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16273.htm", "籍贯": "辽宁辽阳", "职位": "辽宁省铁岭市市长", "学位/学历": "学士", "出生年月": "", "性别": "男"}
+
+73******王宏江******{"name": "王宏江", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5418.htm", "籍贯": "天津", "职位": "天津市委常委、统战部部长", "学位/学历": "博士", "出生年月": "1965年09月", "性别": "男"}
+
+74******张燕友******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4038.htm", "name": "张燕友"}
+
+75******肖怀远******{"name": "肖怀远", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4884.htm", "籍贯": "陕西西安", "职位": "天津市人大常委会主任", "学位/学历": "硕士", "出生年月": "1953年06月", "性别": "男"}
+
+76******李绍洪******{"name": "李绍洪", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16361.htm", "籍贯": "天津", "职位": "天津市和平区委书记", "学位/学历": "博士", "出生年月": "1963年10月", "性别": "男"}
+
+77******白玉刚******{"name": "白玉刚", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4996.htm", "籍贯": "内蒙古达拉特旗", "职位": "内蒙古自治区党委常委、宣传部部长", "学位/学历": "学士", "出生年月": "1965年08月", "性别": "男"}
+
+78******袁桐利******{"name": "袁桐利", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4079.htm", "籍贯": "天津武清", "职位": "河北省委常委、副省长", "学位/学历": "研究生", "出生年月": "1961年08月", "性别": "男"}
+
+79******郑连生******{"name": "郑连生", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4120.htm", "籍贯": "山西潞城", "职位": "山西省忻州市市长", "学位/学历": "本科", "出生年月": "1965年04月", "性别": "男"}
+
+80******王赋******{"name": "王赋", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16263.htm", "籍贯": "山西浑源", "职位": "山西省副省长", "学位/学历": "硕士", "出生年月": "1962年03月", "性别": "男"}
+
+81******陈平******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15863.htm", "name": "陈平"}
+
+82******刘惠******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15596.htm", "name": "刘惠"}
+
+83******齐静******{"name": "齐静", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4041.htm", "籍贯": "安徽无为", "职位": "北京市怀柔区委书记", "学位/学历": "学士", "出生年月": "1963年08月", "性别": "女"}
+
+84******盛茂林******{"name": "盛茂林", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5462.htm", "籍贯": "湖北黄石", "职位": "山西省委常委、组织部部长", "学位/学历": "本科", "出生年月": "1960年01月", "性别": "男"}
+
+85******孔德昌******{"name": "孔德昌", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16329.htm", "籍贯": "山东汶上", "职位": "天津市东丽区区长", "学位/学历": "博士", "出生年月": "1970年08月", "性别": "男"}
+
+86******任亚平******{"name": "任亚平", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4893.htm", "籍贯": "山西五台", "职位": "内蒙古自治区政协主席", "学位/学历": "硕士", "出生年月": "1952年09月", "性别": "男"}
+
+87******武宏文******{"name": "武宏文", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16187.htm", "籍贯": "山西孝义", "职位": "山西省晋城市市长", "学位/学历": "专科", "出生年月": "1962年08月", "性别": "男"}
+
+88******冯玉臻******{"name": "冯玉臻", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4148.htm", "籍贯": "内蒙古和林格尔", "职位": "内蒙古自治区阿拉善盟盟长", "学位/学历": "研究生", "出生年月": "1963年07月", "性别": "男"}
+
+89******谭作钧******{"name": "谭作钧", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5697.htm", "籍贯": "湖南茶陵", "职位": "辽宁省委常委、大连市委书记", "学位/学历": "硕士", "出生年月": "1968年10月", "性别": "男"}
+
+90******隋振江******{"name": "隋振江", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4023.htm", "籍贯": "辽宁大洼", "职位": "北京市副市长", "学位/学历": "硕士", "出生年月": "1963年08月", "性别": "男"}
+
+91******孟宪东******{"name": "孟宪东", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15557.htm", "籍贯": "内蒙古敖汉旗", "职位": "内蒙古自治区赤峰市市长", "学位/学历": "硕士", "出生年月": "1965年02月", "性别": "男"}
+
+92******牛青山******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4027.htm", "name": "牛青山"}
+
+93******冯卫华******{"name": "冯卫华", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16392.htm", "籍贯": "天津", "职位": "天津市南开区区长", "学位/学历": "学士", "出生年月": "1965年02月", "性别": "男"}
+
+94******程红******{"name": "程红", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5370.htm", "籍贯": "山西武乡", "职位": "北京市副市长", "学位/学历": "博士", "出生年月": "1966年02月", "性别": "女"}
+
+95******赵飞******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15562.htm", "name": "赵飞"}
+
+96******董仚生******{"name": "董仚生", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11019.htm", "籍贯": "江西宜丰", "职位": "河北省委常委、政法委书记，省公安厅厅长", "学位/学历": "学士", "出生年月": "1962年02月", "性别": "男"}
+
+97******王小宁******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage12044.htm", "name": "王小宁"}
+
+98******夏德仁******{"name": "夏德仁", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4983.htm", "籍贯": "山东荣成", "职位": "辽宁省政协主席", "学位/学历": "博士", "出生年月": "1955年06月", "性别": "男"}
+
+99******罗虎在******{"name": "罗虎在", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15531.htm", "籍贯": "内蒙古卓资县", "职位": "内蒙古自治区锡林郭勒盟委书记", "学位/学历": "研究生", "出生年月": "1962年05月", "性别": "男"}
+
+100******高建民******{"name": "高建民", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5461.htm", "籍贯": "山西盂县", "职位": "山西省委常委、常务副省长", "学位/学历": "博士", "出生年月": "1960年11月", "性别": "男"}
+
+101******王大伟******{"name": "王大伟", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16514.htm", "籍贯": "黑龙江望奎", "职位": "辽宁省副省长", "学位/学历": "博士", "出生年月": "1964年04月", "性别": "男"}
+
+102******孙宝华******{"name": "孙宝华", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4051.htm", "籍贯": "天津宝坻", "职位": "天津市河北区委书记", "学位/学历": "研究生", "出生年月": "1962年11月", "性别": "男"}
+
+103******张古江******{"name": "张古江", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5978.htm", "籍贯": "天津", "职位": "河北省副省长", "学位/学历": "硕士", "出生年月": "1963年03月", "性别": "男"}
+
+104******范继英******{"name": "范继英", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16204.htm", "籍贯": "辽宁盖州", "职位": "辽宁省委常委、统战部部长", "学位/学历": "硕士", "出生年月": "1963年06月", "性别": "女"}
+
+105******段春华******{"name": "段春华", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5407.htm", "籍贯": "河北容城", "职位": "天津市委常委，常务副市长", "学位/学历": "博士", "出生年月": "1959年10月", "性别": "男"}
+
+106******骆惠宁******{"name": "骆惠宁", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4968.htm", "籍贯": "浙江义乌", "职位": "山西省委书记、省人大常委会主任", "学位/学历": "博士", "出生年月": "1954年10月", "性别": "男"}
+
+107******冮瑞******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4157.htm", "name": "冮瑞"}
+
+108******高世宏******{"name": "高世宏", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16380.htm", "籍贯": "河北辛集", "职位": "内蒙古自治区乌海市市长", "学位/学历": "硕士", "出生年月": "1969年12月", "性别": "男"}
+
+109******秦义******{"name": "秦义", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4126.htm", "籍贯": "内蒙古赤峰", "职位": "内蒙古自治区呼伦贝尔市委书记", "学位/学历": "学士", "出生年月": "1963年09月", "性别": "男"}
+
+110******孙国相******{"name": "孙国相", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4169.htm", "籍贯": "辽宁东港", "职位": "辽宁省鞍山市委书记", "学位/学历": "博士", "出生年月": "1965年02月", "性别": "男"}
+
+111******杜学军******{"name": "杜学军", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4144.htm", "籍贯": "内蒙古海拉尔", "职位": "内蒙古自治区包头市市长", "学位/学历": "博士", "出生年月": "1965年05月", "性别": "男"}
+
+112******范卫平******{"name": "范卫平", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5694.htm", "籍贯": "江西南昌", "职位": "辽宁省委常委、宣传部部长", "学位/学历": "本科", "出生年月": "", "性别": "男"}
+
+113******陈清******{"name": "陈清", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15592.htm", "籍贯": "吉林吉林", "职位": "北京市房山区区长", "学位/学历": "", "出生年月": "1966年01月", "性别": "男"}
+
+114******王立伟******{"name": "王立伟", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15387.htm", "籍贯": "山西定襄", "职位": "山西省吕梁市市长", "学位/学历": "硕士", "出生年月": "1963年01月", "性别": "男"}
+
+115******聂瑞平******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4091.htm", "name": "聂瑞平"}
+
+116******王明玉******{"name": "王明玉", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4173.htm", "籍贯": "辽宁朝阳", "职位": "辽宁省锦州市委书记", "学位/学历": "硕士", "出生年月": "1964年10月", "性别": "男"}
+
+117******田向利******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4085.htm", "name": "田向利"}
+
+118******王力威******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage16131.htm", "name": "王力威"}
+
+119******王成国******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15105.htm", "name": "王成国"}
+
+120******林克庆******{"name": "林克庆", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5379.htm", "籍贯": "湖北仙桃", "职位": "北京市委常委", "学位/学历": "博士", "出生年月": "1966年10月", "性别": "男"}
+
+121******姚来英******{"name": "姚来英", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16279.htm", "籍贯": "河北任丘", "职位": "天津市南开区委书记", "学位/学历": "硕士", "出生年月": "1966年12月", "性别": "男"}
+
+122******沈小平******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage5455.htm", "name": "沈小平"}
+
+123******何树山******{"name": "何树山", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5422.htm", "籍贯": "山东新泰", "职位": "天津市副市长", "学位/学历": "博士", "出生年月": "1964年03月", "性别": "男"}
+
+124******张九萍******{"name": "张九萍", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4111.htm", "籍贯": "山西祁县", "职位": "山西省晋城市委书记", "学位/学历": "硕士", "出生年月": "1963年04月", "性别": "女"}
+
+125******曾一春******{"name": "曾一春", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15126.htm", "籍贯": "四川古蔺", "职位": "内蒙古自治区党委常委、组织部部长", "学位/学历": "学士", "出生年月": "1961年03月", "性别": "男"}
+
+126******王安庞******{"name": "王安庞", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4113.htm", "籍贯": "山西长子", "职位": "山西省朔州市委书记", "学位/学历": "研究生", "出生年月": "1958年05月", "性别": "男"}
+
+127******云光中******{"name": "云光中", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4135.htm", "籍贯": "内蒙古土左旗", "职位": "内蒙古自治区党委常委，呼和浩特市委书记", "学位/学历": "硕士", "出生年月": "1960年06月", "性别": "男"}
+
+128******高宏志******{"name": "高宏志", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4087.htm", "籍贯": "河北正定", "职位": "河北省邯郸市委书记", "学位/学历": "硕士", "出生年月": "1967年10月", "性别": "男"}
+
+129******王清宪******{"name": "王清宪", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4118.htm", "籍贯": "河北永年", "职位": "山西省委常委、宣传部部长", "学位/学历": "博士", "出生年月": "1963年07月", "性别": "男"}
+
+130******罗永纲******{"name": "罗永纲", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15045.htm", "籍贯": "山西朔州", "职位": "内蒙古自治区党委常委、党委秘书长", "学位/学历": "硕士", "出生年月": "1966年09月", "性别": "男"}
+
+131******葛海鹰******{"name": "葛海鹰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15208.htm", "籍贯": "", "职位": "辽宁省抚顺市市长", "学位/学历": "博士", "出生年月": "1960年11月", "性别": "男"}
+
+132******邓修明******{"name": "邓修明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16260.htm", "籍贯": "四川蓬溪", "职位": "天津市委常委、市纪委书记", "学位/学历": "博士", "出生年月": "1964年12月", "性别": "男"}
+
+133******贺旻******{"name": "贺旻", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5696.htm", "籍贯": "辽宁大连", "职位": "辽宁省副省长", "学位/学历": "博士", "出生年月": "1957年10月", "性别": "女"}
+
+134******尚斌义******{"name": "尚斌义", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4062.htm", "籍贯": "山东沾化", "职位": "天津市东丽区委书记", "学位/学历": "博士", "出生年月": "1965年10月", "性别": "男"}
+
+135******董一兵******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15368.htm", "name": "董一兵"}
+
+136******周仲明******{"name": "周仲明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12234.htm", "籍贯": "河北冀州", "职位": "河北省承德市委书记", "学位/学历": "硕士", "出生年月": "1963年11月", "性别": "男"}
+
+137******刘奇凡******{"name": "刘奇凡", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4708.htm", "籍贯": "贵州水城", "职位": "内蒙古自治区党委常委、自治区纪委书记", "学位/学历": "硕士", "出生年月": "1967年04月", "性别": "男"}
+
+138******田树槐******{"name": "田树槐", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15924.htm", "籍贯": "辽宁建昌", "职位": "辽宁省本溪市市长", "学位/学历": "硕士", "出生年月": "1965年09月", "性别": "男"}
+
+139******刘志宏******{"name": "刘志宏", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15872.htm", "籍贯": "山西晋中", "职位": "山西省朔州市市长", "学位/学历": "研究生", "出生年月": "1960年01月", "性别": "男"}
+
+140******高志立******{"name": "高志立", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16242.htm", "籍贯": "河北邯郸", "职位": "河北省委常委、统战部部长", "学位/学历": "硕士", "出生年月": "1962年10月", "性别": "男"}
+
+141******裴伟东******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage5979.htm", "name": "裴伟东"}
+
+142******郭金龙******{"name": "郭金龙", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4990.htm", "籍贯": "江苏南京", "职位": "北京市委书记", "学位/学历": "学士", "出生年月": "1947年07月", "性别": "男"}
+
+143******卢建明******{"name": "卢建明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15638.htm", "籍贯": "山西应县", "职位": "山西省长治市市长", "学位/学历": "博士", "出生年月": "1964年09月", "性别": "男"}
+
+144******宗国英******{"name": "宗国英", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4080.htm", "籍贯": "河南内黄", "职位": "天津市委常委，滨海新区区委书记", "学位/学历": "博士", "出生年月": "1963年08月", "性别": "男"}
+
+145******李佳******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage5471.htm", "name": "李佳"}
+
+146******穆鹏******{"name": "穆鹏", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15410.htm", "籍贯": "陕西礼泉", "职位": "北京市延庆区区长", "学位/学历": "硕士", "出生年月": "1966年05月", "性别": "男"}
+
+147******段志强******{"name": "段志强", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4140.htm", "籍贯": "内蒙古扎赉特旗", "职位": "内蒙古自治区巴彦淖尔市委书记", "学位/学历": "研究生", "出生年月": "1962年07月", "性别": "男"}
+
+148******王少峰******{"name": "王少峰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4020.htm", "籍贯": "山东日照", "职位": "北京市西城区区长", "学位/学历": "硕士", "出生年月": "1970年11月", "性别": "男"}
+
+149******焦彦龙******{"name": "焦彦龙", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4097.htm", "籍贯": "河北平山", "职位": "河北省委常委、唐山市委书记", "学位/学历": "硕士", "出生年月": "1960年09月", "性别": "男"}
+
+150******赵克志******{"name": "赵克志", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4952.htm", "籍贯": "山东莱西", "职位": "河北省委书记，省人大常委会主任", "学位/学历": "硕士", "出生年月": "1953年12月", "性别": "男"}
+
+151******姜有为******{"name": "姜有为", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15356.htm", "籍贯": "吉林农安", "职位": "辽宁省沈阳市市长", "学位/学历": "硕士", "出生年月": "1967年09月", "性别": "男"}
+
+152******孟庆松******{"name": "孟庆松", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16000.htm", "籍贯": "山东", "职位": "天津市宝坻区委书记", "学位/学历": "博士", "出生年月": "1967年04月", "性别": "男"}
+
+153******张晓兵******{"name": "张晓兵", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16168.htm", "籍贯": "山东莱阳", "职位": "内蒙古自治区巴彦淖尔市市长", "学位/学历": "博士", "出生年月": "1971年11月", "性别": "男"}
+
+154******张铁民******{"name": "张铁民", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4165.htm", "籍贯": "河北清苑", "职位": "辽宁省阜新市委书记", "学位/学历": "硕士", "出生年月": "1960年08月", "性别": "男"}
+
+155******刘始杰******{"name": "刘始杰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16202.htm", "籍贯": "山东招远", "职位": "辽宁省朝阳市市长", "学位/学历": "研究生", "出生年月": "1960年04月", "性别": "男"}
+
+156******王玉明******{"name": "王玉明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5637.htm", "籍贯": "内蒙古乌拉特前旗", "职位": "内蒙古自治区人大常委会副主任、政府副主席", "学位/学历": "", "出生年月": "1957年01月", "性别": "男"}
+
+157******李文章******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4833.htm", "name": "李文章"}
+
+158******夏新******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15576.htm", "name": "夏新"}
+
+159******王亚明******{"name": "王亚明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11991.htm", "籍贯": "山东章丘", "职位": "天津市河东区区长", "学位/学历": "硕士", "出生年月": "1960年01月", "性别": "男"}
+
+160******陈浙闽******{"name": "陈浙闽", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12146.htm", "籍贯": "浙江温州", "职位": "天津市委常委、教育工委书记", "学位/学历": "硕士", "出生年月": "1961年06月", "性别": "男"}
+
+161******孙志浩******{"name": "孙志浩", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16256.htm", "籍贯": "", "职位": "辽宁省丹东市市长", "学位/学历": "研究生", "出生年月": "1960年07月", "性别": "男"}
+
+162******席小军******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4110.htm", "name": "席小军"}
+
+163******李树起******{"name": "李树起", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4077.htm", "籍贯": "天津", "职位": "天津市副市长", "学位/学历": "硕士", "出生年月": "1962年08月", "性别": "男"}
+
+164******赵仲华******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4068.htm", "name": "赵仲华"}
+
+165******关志鸥******{"name": "关志鸥", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16327.htm", "籍贯": "辽宁沈阳", "职位": "辽宁省委常委", "学位/学历": "博士", "出生年月": "1969年12月", "性别": "男"}
+
+166******宋亮******{"name": "宋亮", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15369.htm", "籍贯": "河北辛集", "职位": "内蒙古自治区党委常委、通辽市委书记", "学位/学历": "硕士", "出生年月": "1963年12月", "性别": "男"}
+
+167******吉林******{"name": "吉林", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4991.htm", "籍贯": "上海", "职位": "北京市政协主席", "学位/学历": "硕士", "出生年月": "1962年04月", "性别": "男"}
+
+168******王景武******{"name": "王景武", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16498.htm", "籍贯": "河北柏乡", "职位": "河北省衡水市代市长", "学位/学历": "硕士", "出生年月": "1963年10月", "性别": "男"}
+
+169******于立新******{"name": "于立新", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15854.htm", "籍贯": "内蒙古赤峰", "职位": "内蒙古自治区呼伦贝尔市市长", "学位/学历": "", "出生年月": "1965年11月", "性别": "男"}
+
+170******张建东******{"name": "张建东", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage8298.htm", "籍贯": "河北乐亭", "职位": "北京市副市长", "学位/学历": "博士", "出生年月": "1962年07月", "性别": "男"}
+
+171******白向群******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage5641.htm", "name": "白向群"}
+
+172******赵化明******{"name": "赵化明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5699.htm", "籍贯": "辽宁黑山", "职位": "辽宁省副省长", "学位/学历": "硕士", "出生年月": "1957年09月", "性别": "男"}
+
+173******汪先永******{"name": "汪先永", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4993.htm", "籍贯": "安徽太湖", "职位": "北京市丰台区委书记", "学位/学历": "博士", "出生年月": "1967年07月", "性别": "男"}
+
+174******高科******{"name": "高科", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5019.htm", "籍贯": "", "职位": "辽宁省盘锦市委书记", "学位/学历": "", "出生年月": "1960年06月", "性别": "男"}
+
+175******张建民******{"name": "张建民", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage6671.htm", "籍贯": "河北滦县", "职位": "内蒙古自治区党委常委、副主席", "学位/学历": "博士", "出生年月": "1964年09月", "性别": "男"}
+
+176******崔述强******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage14784.htm", "name": "崔述强"}
+
+177******张瑞书******{"name": "张瑞书", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11004.htm", "籍贯": "河北献县", "职位": "河北省秦皇岛市市长", "学位/学历": "本科", "出生年月": "1963年08月", "性别": "男"}
+
+178******胡玉亭******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4116.htm", "name": "胡玉亭"}
+
+179******李干杰******{"name": "李干杰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16203.htm", "籍贯": "湖南望城", "职位": "河北省委副书记", "学位/学历": "硕士", "出生年月": "1964年11月", "性别": "男"}
+
+180******王宇燕******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4443.htm", "name": "王宇燕"}
+
+181******常军政******{"name": "常军政", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5642.htm", "籍贯": "内蒙古土右旗", "职位": "内蒙古自治区副主席", "学位/学历": "研究生", "出生年月": "1957年12月", "性别": "男"}
+
+182******蔡奇******{"name": "蔡奇", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16206.htm", "籍贯": "福建尤溪", "职位": "北京市委副书记、市长", "学位/学历": "博士", "出生年月": "1955年12月", "性别": "男"}
+
+183******贾凤山******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4071.htm", "name": "贾凤山"}
+
+184******夏林茂******{"name": "夏林茂", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4028.htm", "籍贯": "江苏建湖", "职位": "北京市石景山区区长", "学位/学历": "博士", "出生年月": "1970年05月", "性别": "男"}
+
+185******刘强******{"name": "刘强", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5701.htm", "籍贯": "辽宁法库", "职位": "辽宁省副省长", "学位/学历": "博士", "出生年月": "1964年02月", "性别": "男"}
+
+186******丁绣峰******{"name": "丁绣峰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage14476.htm", "籍贯": "河北平乡", "职位": "河北省唐山市市长", "学位/学历": "硕士", "出生年月": "1965年03月", "性别": "男"}
+
+187******王会勇******{"name": "王会勇", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11003.htm", "籍贯": "河北巨鹿", "职位": "河北省邢台市委书记", "学位/学历": "硕士", "出生年月": "1960年03月", "性别": "男"}
+
+188******李伟******{"name": "李伟", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5296.htm", "籍贯": "江苏张家港", "职位": "北京市人大常委会主任", "学位/学历": "硕士", "出生年月": "1958年01月", "性别": "男"}
+
+189******王立彤******{"name": "王立彤", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15857.htm", "籍贯": "安徽巢湖", "职位": "河北省邯郸市代市长", "学位/学历": "硕士", "出生年月": "1968年12月", "性别": "男"}
+
+190******刘予强******{"name": "刘予强", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15628.htm", "籍贯": "山西阳城", "职位": "山西省临汾市市长", "学位/学历": "硕士", "出生年月": "1963年01月", "性别": "男"}
+
+191******汪明浩******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage16024.htm", "name": "汪明浩"}
+
+192******于立军******{"name": "于立军", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16280.htm", "籍贯": "辽宁建平", "职位": "天津市蓟州区委书记", "学位/学历": "硕士", "出生年月": "1967年08月", "性别": "男"}
+
+193******崔枫林******{"name": "崔枫林", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage14846.htm", "籍贯": "", "职位": "辽宁省本溪市委书记", "学位/学历": "", "出生年月": "1960年10月", "性别": "男"}
+
+194******蹇彪******{"name": "蹇彪", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4170.htm", "籍贯": "辽宁黑山", "职位": "辽宁省朝阳市委书记", "学位/学历": "博士", "出生年月": "1964年05月", "性别": "男"}
+
+195******甄杰******{"name": "甄杰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16129.htm", "籍贯": "", "职位": "辽宁省阜新市市长", "学位/学历": "硕士", "出生年月": "1968年03月", "性别": "男"}
+
+196******高朋******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15395.htm", "name": "高朋"}
+
+197******薛延忠******{"name": "薛延忠", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4890.htm", "籍贯": "山西孝义", "职位": "山西省政协主席", "学位/学历": "硕士", "出生年月": "1954年02月", "性别": "男"}
+
+198******王晓东******{"name": "王晓东", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4099.htm", "籍贯": "山东无棣", "职位": "河北省副省长", "学位/学历": "学士", "出生年月": "1959年05月", "性别": "男"}
+
+199******史万钧******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15630.htm", "name": "史万钧"}
+
+200******冀国强******{"name": "冀国强", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4075.htm", "籍贯": "河南汝南", "职位": "天津市静海区委书记", "学位/学历": "硕士", "出生年月": "1965年11月", "性别": "男"}
+
+201******李俊明******{"name": "李俊明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4106.htm", "籍贯": "山西定襄", "职位": "山西省忻州市委书记", "学位/学历": "硕士", "出生年月": "1960年04月", "性别": "男"}
+
+202******赵爱军******{"name": "赵爱军", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15404.htm", "籍贯": "", "职位": "辽宁省鞍山市市长", "学位/学历": "研究生", "出生年月": "1964年03月", "性别": "男"}
+
+203******侯君舒******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4037.htm", "name": "侯君舒"}
+
+204******冯韶慧******{"name": "冯韶慧", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4100.htm", "籍贯": "河北曲阳", "职位": "河北省廊坊市委书记", "学位/学历": "硕士", "出生年月": "1965年09月", "性别": "男"}
+
+205******阎庆民******{"name": "阎庆民", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11819.htm", "籍贯": "山西天镇", "职位": "天津市副市长", "学位/学历": "博士", "出生年月": "1961年05月", "性别": "男"}
+
+206******李连庆******{"name": "李连庆", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15121.htm", "籍贯": "河北沧县", "职位": "天津市河东区委书记", "学位/学历": "学士", "出生年月": "1968年07月", "性别": "男"}
+
+207******尹德明******{"name": "尹德明", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5406.htm", "籍贯": "四川岳池", "职位": "天津市委常委、组织部部长", "学位/学历": "学士", "出生年月": "1964年02月", "性别": "男"}
+
+208******赵长富******{"name": "赵长富", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15575.htm", "籍贯": "", "职位": "辽宁省营口市委书记", "学位/学历": "学士", "出生年月": "1961年01月", "性别": "男"}
+
+209******陈求发******{"name": "陈求发", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4934.htm", "籍贯": "湖南城步", "职位": "辽宁省委副书记、省长", "学位/学历": "学士", "出生年月": "1954年12月", "性别": "男"}
+
+210******毕力夫******{"name": "毕力夫", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4995.htm", "籍贯": "内蒙古呼和浩特", "职位": "内蒙古自治区赤峰市委书记", "学位/学历": "博士", "出生年月": "1962年12月", "性别": "男"}
+
+211******商黎光******{"name": "商黎光", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4086.htm", "籍贯": "河北巨鹿", "职位": "河北省委常委、省委秘书长", "学位/学历": "硕士", "出生年月": "1963年11月", "性别": "男"}
+
+212******郭建英******{"name": "郭建英", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16199.htm", "籍贯": "河北深泽", "职位": "河北省保定市代市长", "学位/学历": "", "出生年月": "1962年08月", "性别": "男"}
+
+213******梁永岑******{"name": "梁永岑", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16125.htm", "籍贯": "辽宁辽阳", "职位": "天津市红桥区区长", "学位/学历": "", "出生年月": "1968年12月", "性别": "男"}
+
+214******刘志强******{"name": "刘志强", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5018.htm", "籍贯": "河北", "职位": "天津市河北区区长", "学位/学历": "研究生", "出生年月": "1971年05月", "性别": "男"}
+
+215******张勇******{"name": "张勇", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4069.htm", "籍贯": "河北南皮", "职位": "天津市滨海新区区长", "学位/学历": "博士", "出生年月": "1965年12月", "性别": "男"}
+
+216******孙文魁******{"name": "孙文魁", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5424.htm", "籍贯": "天津", "职位": "天津市副市长", "学位/学历": "研究生", "出生年月": "1962年06月", "性别": "男"}
+
+217******刘兴伟******{"name": "刘兴伟", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5772.htm", "籍贯": "", "职位": "辽宁省丹东市委书记", "学位/学历": "硕士", "出生年月": "1963年02月", "性别": "男"}
+
+218******董晓宇******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage15229.htm", "name": "董晓宇"}
+
+219******张贵林******{"name": "张贵林", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage7012.htm", "籍贯": "广西兴安", "职位": "北京市门头沟区委书记", "学位/学历": "博士", "出生年月": "1963年04月", "性别": "男"}
+
+220******王灏******{"name": "王灏", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15367.htm", "籍贯": "辽宁海城", "职位": "北京市朝阳区区长", "学位/学历": "博士", "出生年月": "1967年06月", "性别": "男"}
+
+221******王凤波******{"name": "王凤波", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15162.htm", "籍贯": "", "职位": "辽宁省辽阳市委书记", "学位/学历": "博士", "出生年月": "1963年12月", "性别": "男"}
+
+222******于军******{"name": "于军", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12760.htm", "籍贯": "山东平度", "职位": "北京市海淀区区长", "学位/学历": "博士", "出生年月": "1964年06月", "性别": "男"}
+
+223******孟祥伟******{"name": "孟祥伟", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4090.htm", "籍贯": "河北赵县", "职位": "河北省秦皇岛市委书记", "学位/学历": "博士", "出生年月": "1966年06月", "性别": "男"}
+
+224******杨斌******{"name": "杨斌", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage11002.htm", "籍贯": "山东昌邑", "职位": "北京市通州区委书记", "学位/学历": "博士", "出生年月": "1961年12月", "性别": "男"}
+
+225******罗福来******{"name": "罗福来", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4070.htm", "籍贯": "天津", "职位": "天津市宁河区委书记", "学位/学历": "研究生", "出生年月": "1968年10月", "性别": "男"}
+
+226******高宏彬******{"name": "高宏彬", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4158.htm", "籍贯": "山东蓬莱", "职位": "辽宁省抚顺市委书记", "学位/学历": "博士", "出生年月": "1971年10月", "性别": "男"}
+
+227******刘新乐******{"name": "刘新乐", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5636.htm", "籍贯": "内蒙古土左旗", "职位": "内蒙古自治区副主席", "学位/学历": "硕士", "出生年月": "1961年11月", "性别": "男"}
+
+228******孙轶******{"name": "孙轶", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15534.htm", "籍贯": "辽宁凌源", "职位": "辽宁省葫芦岛市委书记", "学位/学历": "研究生", "出生年月": "", "性别": "男"}
+
+229******常卫******{"name": "常卫", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4042.htm", "籍贯": "河南偃师", "职位": "北京市怀柔区区长", "学位/学历": "博士", "出生年月": "1966年09月", "性别": "男"}
+
+230******王东峰******{"name": "王东峰", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5388.htm", "籍贯": "陕西西安", "职位": "天津市委副书记，市长", "学位/学历": "硕士", "出生年月": "1958年02月", "性别": "男"}
+
+231******布小林******{"name": "布小林", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage5631.htm", "籍贯": "内蒙古土左旗", "职位": "内蒙古自治区党委副书记，自治区政府主席", "学位/学历": "博士", "出生年月": "1958年08月", "性别": "女"}
+
+232******张力兵******{"name": "张力兵", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16166.htm", "籍贯": "北京", "职位": "北京市通州区区长", "学位/学历": "学士", "出生年月": "1963年08月", "性别": "男"}
+
+233******卢映川******{"name": "卢映川", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4036.htm", "籍贯": "安徽阜南", "职位": "北京市西城区委书记", "学位/学历": "博士", "出生年月": "1968年05月", "性别": "男"}
+
+234******王蒙徽******{"name": "王蒙徽", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4336.htm", "籍贯": "江苏盐城", "职位": "辽宁省委副书记、沈阳市委书记", "学位/学历": "博士", "出生年月": "1960年01月", "性别": "男"}
+
+235******李建成******{"name": "李建成", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15451.htm", "籍贯": "天津", "职位": "天津市宝坻区区长", "学位/学历": "硕士", "出生年月": "1967年06月", "性别": "男"}
+
+236******武卫东******{"name": "武卫东", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16201.htm", "籍贯": "河北平山", "职位": "河北省张家口市市长", "学位/学历": "硕士", "出生年月": "1969年10月", "性别": "男"}
+
+237******杨茂荣******{"name": "杨茂荣", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12145.htm", "籍贯": "天津", "职位": "天津市北辰区委书记", "学位/学历": "研究生", "出生年月": "1962年05月", "性别": "男"}
+
+238******空缺******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage.htm", "name": "空缺"}
+
+239******李鸿忠******{"name": "李鸿忠", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4929.htm", "籍贯": "山东昌乐", "职位": "天津市委书记", "学位/学历": "学士", "出生年月": "1956年08月", "性别": "男"}
+
+240******曲孝丽******{"name": "曲孝丽", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16281.htm", "籍贯": "山东昌邑", "职位": "天津市红桥区委书记", "学位/学历": "博士", "出生年月": "1963年09月", "性别": "女"}
+
+241******回建******{"name": "回建", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4088.htm", "籍贯": "河北沧县", "职位": "河北省张家口市委书记", "学位/学历": "博士", "出生年月": "1961年07月", "性别": "男"}
+
+242******陈永奇******{"name": "陈永奇", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4108.htm", "籍贯": "山西怀仁", "职位": "山西省阳泉市委书记", "学位/学历": "博士", "出生年月": "1967年11月", "性别": "男"}
+
+243******吴桂英******{"name": "吴桂英", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4022.htm", "籍贯": "河北唐山", "职位": "北京市朝阳区委书记", "学位/学历": "博士", "出生年月": "1966年02月", "性别": "女"}
+
+244******付万惠******{"name": "付万惠", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage12271.htm", "籍贯": "内蒙古包头", "职位": "内蒙古自治区锡林郭勒盟盟长", "学位/学历": "本科", "出生年月": "1960年02月", "性别": "男"}
+
+245******李志军******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage4047.htm", "name": "李志军"}
+
+246******王德佳******{"name": "王德佳", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage16130.htm", "籍贯": "", "职位": "辽宁省锦州市市长", "学位/学历": "博士", "出生年月": "1963年06月", "性别": "男"}
+
+247******王成******{"name": "王成", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15839.htm", "籍贯": "山西平鲁", "职位": "山西省晋中市市长", "学位/学历": "博士", "出生年月": "1969年06月", "性别": "男"}
+
+248******马彦平******{"name": "马彦平", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage15041.htm", "籍贯": "山西兴县", "职位": "山西省大同市市长", "学位/学历": "研究生", "出生年月": "1965年04月", "性别": "男"}
+
+249******张吉福******{"name": "张吉福", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4043.htm", "籍贯": "天津", "职位": "山西省委常委、大同市委书记", "学位/学历": "博士", "出生年月": "1964年09月", "性别": "男"}
+
+250******王刚******{"name": "王刚", "url": "http://ldzl.people.com.cn/dfzlk/front/personPage4035.htm", "籍贯": "辽宁锦西", "职位": "北京市顺义区委书记", "学位/学历": "博士", "出生年月": "1968年07月", "性别": "男"}
+
+251******费东斌******{"url": "http://ldzl.people.com.cn/dfzlk/front/personPage16200.htm", "name": "费东斌"}
+
